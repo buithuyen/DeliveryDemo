@@ -1,0 +1,355 @@
+[
+    {
+        "location": {
+            "lat": 21.0147865,
+            "lng": 105.8139719
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "945b23a7faad3008271607749840d200d2c58630",
+        "name": "Pharmacy Number 1",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos":
+        {
+            "height": 400,
+            "photo_reference": "CmRaAAAA2q0phiDgZHAyDtTBIVlhvFPsrTs3ZnPJR92kZIEG72ySm6NCA2OVBP20RuwOspQUkn7_j1BVNCzSZJQNR8_XTlpTr9IiZRjLKqGlZfku9_yvH031VLVrCWE9Ln7QyEy4EhDxAP1fdqexE-SYdFYhEy28GhTVq2zJ-BqFudyjUXXafBwby_at0Q",
+            "width": 600
+        },
+        "place_id": "ChIJzyIlBGOrNTER34fzt92ckrs",
+        "rating": 4.2,
+        "vicinity": "95 Láng Hạ"
+    },
+    {
+        "location": {
+            "lat": 21.0105889,
+            "lng": 105.7950246
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "415f0c623516ad3297ace574cb29e05cd61bc395",
+        "name": "Hiệu thuốc chợ Trung Kính 1",
+        "place_id": "ChIJNa0kxqesNTERSISgqdrDqac",
+        "rating": 3.8,
+        "vicinity": "Trung Hoà"
+    },
+    {
+        "location": {
+            "lat": 21.0156601,
+            "lng": 105.8008517
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "f38ca91c9ddda519c4b03212ce8c33037b27f569",
+        "name": "Thái Dương Pharmacy",
+        "photos":
+        {
+            "height": 2832,
+            "photo_reference": "CmRaAAAAJZFtAurcmTyT53pdYoKi8wznLXlGgjJEIWcCT01X93Vz4d_3QMExNcWo0l70sWs5dR5u_7JkqnAVP5CWYoGb0x4XKNaLdrLTczTCrlFvRvmRRlDPY_cUf9RLaA7iyCfFEhBoYyDC-7yi10OQEuSZSE7-GhQPGDbMNyJClJjTgK-73FqxQc41uw",
+            "width": 4256
+        },
+        "place_id": "ChIJxZp73F6rNTER409egFrXoj4",
+        "rating": 4.8,
+        "vicinity": "84 Trung Hòa, Trung Hoà"
+    },
+    {
+        "location": {
+            "lat": 21.0171739,
+            "lng": 105.8108711
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "944d8aaff658bdf81a423c59876acbc521b40027",
+        "name": "Winsacom.",
+        "place_id": "ChIJaxH-rGarNTERO5TtuBOQ6LI",
+        "rating": 5,
+        "reference": "ChIJaxH-rGarNTERO5TtuBOQ6LI",
+        "vicinity": "18 Nguyen Hong Street, Lane 34 Alley 23, Dong Da District"
+    },
+    {
+        "location": {
+            "lat": 21.009748,
+            "lng": 105.804732
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "ef71162f029b10466b8d309e6b135e3326d0c411",
+        "name": "Trị Nám - Đông Y Gia Truyền",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos":
+        {
+            "height": 600,
+            "photo_reference": "CmRaAAAAaJ8Bh_ltxDafsr8Jg7h_f97iwXNmft0n3SYbfyjL_NqlY9WPecGYuHcBw30bc2v5NobdP6tvWasXH39YeX1FcDGsyaaNoZ_U8QCF5Tx001kekQK5yoWV2Y46BodNThbOEhAkZaf3BkuEtsjvf5Rwcbi7GhTTTeMBhErpplNnbd5ELNW-M8hywQ",
+            "width": 900
+        },
+        "place_id": "ChIJ68CLOqCsNTERSoooHBj6KMc",
+        "rating": 5,
+        "reference": "ChIJ68CLOqCsNTERSoooHBj6KMc",
+        "scope": "GOOGLE",
+        "vicinity": "8/77 Nguyễn Thị Định, Trung Hoà"
+    },
+    {
+        "location": {
+            "lat": 21.0098439,
+            "lng": 105.8077933
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "f6429532c17eb0fc40914ac9f1785a1bf491eadb",
+        "name": "Nha thuoc Dong Y Nhan Tam",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos":
+        {
+            "height": 960,
+            "photo_reference": "CmRaAAAALGSFRYdXchLJ5pj3HtPk7QEs4oOJY9bAf2v1qYEhJcXv7QyQ0KuBePm8GmIHdP2gRP_qsIoNo52jST16KNqiOmAxZh3UCRHBmBkfCHadH0JWdE94-ERseUZ1yuLvm_fWEhAoLM3Y2MAup_Ix5fLbrIaPGhSPNfh1gzW80N6Mj0NU5qglKwCzIQ",
+            "width": 540
+        },
+        "place_id": "ChIJP356t5-sNTERzr7V4z_vOSI",
+        "rating": 5,
+        "vicinity": "Trung Hoà"
+    },
+    {
+        "location": {
+            "lat": 21.0116402,
+            "lng": 105.7992662
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "a9d2928d44d4e19b30585ba9e4243d710d3b100b",
+        "name": "Anh Đức Pharmacy",
+        "photos":
+        {
+            "height": 2448,
+            "photo_reference": "CmRaAAAAFsr64pEZvqc811hlUjWCx4Wx7sQxjXlPK6qKi1HzBGtoWLNzWL6sFEbqVlYhKoibTwlg1w9afLmOYo31akDkcYEhO_fALK2ktm9IfyqiZutE83hOeNTgj675ansldaU1EhBHxsKlsKKCnue5sQqEGEn0GhSkYZG1OGCrG8TGgPLWwB6toHB5-g",
+            "width": 3264
+        },
+        "place_id": "ChIJa3iGW6asNTERTkbkaO91X-M",
+        "rating": 1,
+        "vicinity": "19 Ngõ 110 Trần Duy Hưng, Trung Hoà"
+    },
+    {
+        "location": {
+            "lat": 21.02359539999999,
+            "lng": 105.8033381
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "978e429ed2a84e9a41dd838e350b82a3baf80140",
+        "name": "A Au Pharmaceutical Co., Ltd",
+        "place_id": "ChIJuemg0kKrNTERMoQqNoQDHAc",
+        "vicinity": "171-173, Đường Chùa Láng, Phường Láng Thượng, Quận Đống Đa, Láng Thượng"
+    },
+    {
+        "location": {
+            "lat": 21.0146401,
+            "lng": 105.8141004
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "117600c928f56afe8f428caecc6c52bd743fba2f",
+        "name": "Trung Tam Medical Equipment & Pharma Company",
+        "place_id": "ChIJz0pBpmOrNTERJbHEC3qk9uI",
+        "rating": 2,
+        "vicinity": "312B/95, Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Láng Hạ"
+    },
+    {
+        "location": {
+            "lat": 21.0243192,
+            "lng": 105.8054497
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "50f2d58b0745b1c2e981cc3713402cfa03ada841",
+        "name": "Khánh Nguyên Pharmacy",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos":
+        {
+            "height": 392,
+            "photo_reference": "CmRaAAAALBYJx5GK6VEH-or2cSTjT6IAp-5HwAsT5yZM6v899TUppVfHnpwfwTgRywEAgTIzRJrHEQztFdw-R3cmR56zTAfh4uZKTikJrk0ynZKLAgP5h9Oux3v3ikznlmHHfVPDEhDA3INHD3NQoFuZDf_Z5n5eGhQlDYPwPQ2Gb4Ks_-hu8LJe5zQ-JA",
+            "width": 403
+        },
+        "place_id": "ChIJB0GgrUKrNTERCMMnKAGlQH0",
+        "rating": 3.7,
+        "vicinity": "Chùa Láng, Láng Thượng"
+    },
+    {
+        "location": {
+            "lat": 21.0236746,
+            "lng": 105.7990502
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "e299aba19e1631d0f2fd9220104d8e79b9f6f288",
+        "name": "Shop Condoms Genuine",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos":
+        {
+            "height": 1152,
+            "photo_reference": "CmRaAAAA3AIFr3ex1I9_kwU9ZwpdLz1ja4EtdDdqKxwpOADGY7Kf8PPYgihUr8lSlq3GTYUc1lt83-CiKS9A3dCC0PlHje5nY8Jq9ycZzI5sKo5rf6lLu3h99zBEskNN3hFcxU3uEhDR5HOknRz3EDCnY6paVwNkGhRcw8UAtGKlFJnLsi-r7caeNOtGgA",
+            "width": 2048
+        },
+        "place_id": "ChIJfzBGs0SrNTERv4D149uV9jE",
+        "rating": 4,
+        "vicinity": "1034, Láng, Phường Láng Thượng, Quận Đống Đa, Thành Phố Hà Nội, Thành Phố Hà Nội"
+    },
+    {
+        "location": {
+            "lat": 21.0242569,
+            "lng": 105.8103883
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "2c2e362564573b87b5c537e1382eff09eaf1f2b4",
+        "name": "Vidatox Viet Nam",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos":
+        {
+            "height": 577,
+            "photo_reference": "CmRZAAAAEW_HSDZur1QtFHJTDIjYScDZU7IDdsQOE9lcStzNA1-GCJ8dRNxyibsx_sIdGKPJTwIVgwsVKGtlEbEPIe_PsM0rqPfMa8u2EOtDEQmTxhw5ZXtkJdT_XMJZicksDC5REhBNcb8h-Q2pzjG-Ky0L9ZxNGhTV9VZ9LimACuX4IOfHdMuth04LEw",
+            "width": 813
+        },
+        "place_id": "ChIJlXJaVxSrNTER1mtTlpMiLnQ",
+        "rating": 5,
+        "vicinity": "Tầng 5, 52 Nguyễn Chí Thanh, Láng Thượng"
+    },
+    {
+        "location": {
+            "lat": 21.0257875,
+            "lng": 105.8098351
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "7c586fb5a84ef43bcb999aa76e379d6732c70ed5",
+        "name": "Nhà Thuốc Trọng Tấn",
+        "place_id": "ChIJ4XWnsoOrNTERS0ugZ-G_QbI",
+        "rating": 4.3,
+        "vicinity": "57 Đường La Thành, Láng Thượng"
+    },
+    {
+        "location": {
+            "lat": 21.0196774,
+            "lng": 105.8174264
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "b756220aa4a67510d8956610cc826fc12290e44e",
+        "name": "Drug supermarket MEGA3",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos":
+        {
+            "height": 1529,
+            "photo_reference": "CmRaAAAA1PAgp9iA8wRAR5wO7Hv2fxanpXPHh9peC86aNaYMZ81cn8Kkj2P9NJ7wpGB8Y7hCTwfIQi9vo0w3t79pLfePeykO5R4ptmQVKlo82SKXjIvoA7ChiEHQTZJhtbvi8Ok7EhAM7bT70y6oBYmZHnQU8gYxGhQcR8QiIwfBTD7spmYoAZcPMCFnmg",
+            "width": 2048
+        },
+        "place_id": "ChIJ-9H7uHqrNTERZJPIr_kmTNw",
+        "rating": 3.6,
+        "vicinity": "31 Láng Hạ _ Ba Đình _ Hà Nội, Chợ Dừa"
+    },
+    {
+        "location": {
+            "lat": 21.01963019999999,
+            "lng": 105.8172188
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "3eaae1da0d82e6706ccf05acbc6933b46522c5d1",
+        "name": "SIÊU THỊ THUỐC MEGA3",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos":
+        {
+            "height": 960,
+            "photo_reference": "CmRaAAAAtFl7hcOCD6xcGlgotUvDzi98wiSyg5so1BjtujbpDoix92N_uOo7c6Syzco22YRKVy2237bFEsqBfU9Okyz0F8v1cKzQiWc6cvsaK6AHJIhA9aFP4HPlpeK7LRyvyO7vEhAMgychrl_MccB97lA65LlrGhSqg-AAjDvxeK5AdWxiqoG5AskHdw",
+            "width": 1280
+        },
+        "place_id": "ChIJH5tcK2WrNTERADMMu4xdbg0",
+        "rating": 4.4,
+        "vicinity": "31 Láng Hạ, Chợ Dừa"
+    },
+    {
+        "location": {
+            "lat": 21.0031906,
+            "lng": 105.8030632
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "46fb71b4f84c6b75708cf42a7b82cb0efd420a42",
+        "name": "Đông Y Gia Truyền Thọ Xuân Đường",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos":
+        {
+            "height": 576,
+            "photo_reference": "CmRaAAAAnvtQZKFIJCxf6hlU3KtDwSsbzcSk8FwlqmG30nMeYyOc-J78n0m0nb50bp-QwkXM2_nCJ35GLO_RiY4NlH3jIHxurJqRyzDHvwXdDDYKiEn68nUwobCez2hKCOtoEn5eEhD2viM0FfJBDWbZieRRHBXqGhSJKSFreyUEUwI9mx6WV43gaOPAMw",
+            "width": 1024
+        },
+        "place_id": "ChIJw6Sn-KKsNTERCid54fz3ygo",
+        "rating": 4.2,
+        "vicinity": "Số 7 ngõ 46 Lê Văn Thiêm(Khu Thủy Sản), Nhân Chính"
+    },
+    {
+        "location": {
+            "lat": 21.026062,
+            "lng": 105.7964247
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "26015f66105d264e3337a0e49146a51f13ddea23",
+        "name": "Nhà Thuốc Nam Hải",
+        "place_id": "ChIJ92wSHEWrNTERswk-X7GP2gg",
+        "vicinity": "62 Hoa Bằng, Yên Hoà"
+    },
+    {
+        "location": {
+            "lat": 21.012324,
+            "lng": 105.8189432
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "7ee1ef0335fa15883ce45c52107b7a59afe210f3",
+        "name": "Supermarket Ganoderma Korea",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJ4emJFn2rNTERM4RNaPFRWTY",
+        "rating": 4,
+        "vicinity": "Số 16 Ngách 31 Ngõ 131 - Thái Hà, Trung Liệt"
+    },
+    {
+        "location": {
+            "lat": 21.0256909,
+            "lng": 105.8097899
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "dbb416304f81e73c740ac765dc26d815daa76635",
+        "name": "Children's Hospital Pharmacy",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos":
+        {
+            "height": 2160,
+            "photo_reference": "CmRaAAAAXiFQBCRqPsG7iTNo_pGor0lymEFvHZRGCRNrCmxROgYmhRRN2XBr7TtQ3ywNPLoN8EZNmexXsXeTpOqhEY32SIrueWSuYhH_iKXDhbActrvoXKNAoH51UbrtIcJ4Z7L8EhB1TL2lE15Nan8DWcMkr0aRGhQeUXZwK0zaR9IkVpEB7GmAi1XATQ",
+            "width": 3840
+        },
+        "place_id": "ChIJowhN4GirNTEROTuc00L0SQ0",
+        "rating": 3.3,
+        "vicinity": "18 Đường La Thành, Láng Thượng"
+    },
+    {
+        "location": {
+            "lat": 21.0151937,
+            "lng": 105.8040875
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "0792899d88ef195c2b94331756ed3424475cd9f9",
+        "name": "Private Pharmacy",
+        "photos":
+        {
+            "height": 1920,
+            "photo_reference": "CmRaAAAALPrfZoHN6x1-kZlinBiZUwJMWGgH-v2GsDpO72YTwAxw6YmsBFdxlBQaW089ILvV3W0YdFul8ab0H8xo9wmpEX54FWp-znFT41mx_uDJ7MOVhSK-BIidcQaWl_1V51bjEhAzu9rUmHNrVJm41omZx4wHGhQWH1Nq_zTU3K6NBMb-Th6h-NyC7w",
+            "width": 1080
+        },
+        "place_id": "ChIJRy72SV6rNTERLOIciwiwlDs",
+        "rating": 5,
+        "vicinity": "2A, Đường Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Trung Hoà"
+    }
+]
+

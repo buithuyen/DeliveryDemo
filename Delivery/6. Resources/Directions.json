@@ -1,0 +1,96 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJ9-Kl-KKsNTERWxEKxS7t19w",
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJw6Sn-KKsNTERCid54fz3ygo",
+            "types": [
+                "establishment",
+                "health",
+                "pharmacy",
+                "point_of_interest",
+                "store"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 21.0033053,
+                    "lng": 105.8031316
+                },
+                "southwest": {
+                    "lat": 21.0032413,
+                    "lng": 105.8030773
+                }
+            },
+            "copyrights": "Map data ©2018 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "9 m",
+                        "value": 9
+                    },
+                    "duration": {
+                        "text": "1 min",
+                        "value": 7
+                    },
+                    "end_address": "Số 7 ngõ 46 Lê Văn Thiêm(Khu Thủy Sản), Nhân Chính, Thanh Xuân, Hà Nội, Vietnam",
+                    "end_location": {
+                        "lat": 21.0032413,
+                        "lng": 105.8031316
+                    },
+                    "start_address": "5 Lê Văn Thiêm, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam",
+                    "start_location": {
+                        "lat": 21.0033053,
+                        "lng": 105.8030773
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "9 m",
+                                "value": 9
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 7
+                            },
+                            "end_location": {
+                                "lat": 21.0032413,
+                                "lng": 105.8031316
+                            },
+                            "html_instructions": "Head <b>southeast</b>",
+                            "polyline": {
+                                "points": "uee_CgtwdSLI"
+                            },
+                            "start_location": {
+                                "lat": 21.0033053,
+                                "lng": 105.8030773
+                            },
+                            "travel_mode": "WALKING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "uee_CgtwdSLI"
+            },
+            "summary": "",
+            "warnings": [
+                "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+            ],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}
